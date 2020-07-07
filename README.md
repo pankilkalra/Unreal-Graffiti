@@ -10,6 +10,8 @@ graffiti_p.py contains the code just for the detection and painting without the 
 
 We lost the Arduino Code for this project.
 
+![alt_text](https://github.com/pankilkalra/Unreal-Graffiti/blob/master/demo.png)
+
 This project was built as Project 2 for the IED Course in Semester 2 by the team - Squirtle Squad.
 
 Squirtle Squad consists of the following members:
